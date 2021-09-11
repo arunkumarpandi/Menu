@@ -7,7 +7,7 @@
             "desc":"A Classic delight with 100% real mozzarella cheese",
             "weight":"150 grams",
             "size":"35 cms",
-            "flavour":"v"
+            "type":"v"
          },
          {
             "name":"Cheese n Corn",
@@ -15,7 +15,7 @@
             "desc":"Sweet and juicy golden corn and 100% real mozzarella cheese in detedatable combination",
             "weight":"225 grams",
             "size":"45 cms",
-            "flavour":"v"
+            "type":"v"
          },
          {
             "name":"Spiced Chicken Sausage",
@@ -23,7 +23,7 @@
             "desc":"Non veg delight - Grilled Chicken,onion, capsicum",
             "weight":"250 grams",
             "size":"50 cms",
-            "flavour":"nv"
+            "type":"nv"
          }
       ]
    },
@@ -35,7 +35,7 @@
             "desc":"Bowl of rice with flavourful gravy & crispy veg strips",
             "weight":"400 grams",
             "size":"5 pieces",
-            "flavour":"v"
+            "type":"v"
          },
          {
             "name":"Smoky red rice bowl",
@@ -43,7 +43,7 @@
             "desc":"Bowl of rice with flavourful gravy & mouth watering smooky red chicken",
             "weight":"450 grams",
             "size":"6 pieces",
-            "flavour":"nv"
+            "type":"nv"
          },
          {
             "name":"Hot & Crispy rice & Pepsi Combo",
@@ -51,7 +51,7 @@
             "desc":"Bowl of rice with flavourful gravy & Our hot & crispy chicken served with pepsi",
             "weight":"500 grams",
             "size":"7 pieces",
-            "flavour":"nv"
+            "type":"nv"
          }
       ]
    },
